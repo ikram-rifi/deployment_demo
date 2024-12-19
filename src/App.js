@@ -46,7 +46,7 @@ const App = () => {
 
   return (
     <div className="table-container">
-      <h1>Gestion Des clients</h1>
+      <h1>Gestion Des Utilisateur</h1>
 
       {/* Champ de recherche */}
       <input
